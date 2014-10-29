@@ -1,0 +1,4 @@
+JavaWebMap
+==========
+
+JavaWebMap template
